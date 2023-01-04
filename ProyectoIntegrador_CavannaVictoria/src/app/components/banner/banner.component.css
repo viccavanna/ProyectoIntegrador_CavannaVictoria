@@ -1,0 +1,9 @@
+.banner{
+    background-color: black;
+}
+.banner img {
+    width: 100vw;
+    height: 20vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}

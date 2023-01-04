@@ -1,4 +1,8 @@
-div{
-    background-color: black;
-    height: 7vw;
+header{
+    background-color:black;
+    height: 5vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    display: flex;
+    justify-content: space-between;
 }

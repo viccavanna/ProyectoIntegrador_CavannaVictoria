@@ -1,0 +1,10 @@
+.logosRedes {
+    background-color: black;
+    display: flex;
+}
+
+img {
+    width:1.8vw;
+    margin: 0.7VW;
+    padding-top: 20%;
+}

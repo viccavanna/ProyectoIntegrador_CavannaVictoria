@@ -1,0 +1,11 @@
+.experiencia {
+    padding-left:10vw;
+    padding-top: 5%;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+h2,h3 {
+    display: inline;
+}

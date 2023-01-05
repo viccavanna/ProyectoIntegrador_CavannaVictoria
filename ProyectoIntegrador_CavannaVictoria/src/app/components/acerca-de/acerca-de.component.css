@@ -16,3 +16,18 @@
         left: 10vw;
     }
 }
+
+@media (max-width: 576px){
+    #profilePhoto{
+        position: absolute;
+        width: 40%;
+        border-radius: 100%;
+        top: 16.5vw;
+        left: 27vw;
+    }
+
+    .profileDiv{
+        margin-bottom: 30%;
+    }
+}
+

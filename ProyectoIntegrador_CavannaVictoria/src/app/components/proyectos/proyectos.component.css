@@ -1,0 +1,21 @@
+.proyectos {
+    background-color: black;
+    color: white;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 3vw;
+    min-height: fit-content;
+}
+
+.contenedor {
+    width:auto;
+}
+
+.textoProyectos, .imgProyectos {
+    display: inline-block;
+    text-align: justify;
+}
+
+.imgEncriptador {
+    box-shadow: 1vw 1vw 0.5vw #ffffff;
+}
